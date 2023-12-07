@@ -21,7 +21,7 @@
 
 2 x M3 hammer head t-nuts
 
-2 x MGN9 alignment toll
+2 x MGN9 alignment tool
  - [https://www.thingiverse.com/thing:4976160](MGN9%20alignment%20tool)
 
 ### Instructions
