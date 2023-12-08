@@ -6,6 +6,7 @@
 
 2 x [MGN9 linear rail spacer blocks](https://github.com/dhoard/Ender-3-V3-SE/blob/main/x-axis-linear-rail/Ender%203%20V3%20SE%20MGN9%20linear%20rail%20spacer%20block.3mf)
 - 50% cubic infill, .12mm layer height, 4 walls
+- more can be used, but don't seem to be required
 
 1 x [MGN9H carriage mount](https://github.com/dhoard/Ender-3-V3-SE/blob/main/x-axis-linear-rail/Ender%203%20V3%20SE%20MGN9H%20carriage%20mount.3mf)
  - 50% cubic infill, .12mm layer height, 4 walls 
