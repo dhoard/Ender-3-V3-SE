@@ -30,7 +30,7 @@
 2 x M5-0.8 hex head v-wheel bolts
 - stock bolts for the top v-wheels
 
-2 x M5-0.8 v-wheel spaces
+2 x M5-0.8 v-wheel spacers
 - stock spacers for top v-wheels
 
 ### Instructions
