@@ -47,3 +47,7 @@
 10. Assemble the printer tool head
 11. Tighten the x-axis belt
 12. Attach the printer tool head cable
+
+## Disclaimer
+
+Use at your own risk. Not responible for you, your machine, or any damages.
