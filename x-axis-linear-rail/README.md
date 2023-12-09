@@ -27,6 +27,12 @@
 2 x MGN9 alignment tool
  - [https://www.thingiverse.com/thing:4976160](MGN9%20alignment%20tool)
 
+2 x M5-0.8 hex head v-wheel bolts
+- stock bolts for the top v-wheels
+
+2 x M5-0.8 v-wheel spaces
+- stock spacers for top v-wheels
+
 ### Instructions
 
 1. Unplug the printer
