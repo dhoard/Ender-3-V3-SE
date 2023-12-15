@@ -46,4 +46,4 @@ Install and use at your own risk. Not responible for you, your machine, or any d
 ### Images
 
 ![Image 1](image-1.jpg "Image 1")
-![Image 2](https://assets.digitalocean.com/articles/alligator/boo.svg "Image 2")
+![Image 2](image-2.jpg "Image 2")
