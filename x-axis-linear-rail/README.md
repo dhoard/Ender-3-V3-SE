@@ -9,16 +9,16 @@ Install and use at your own risk. Not responible for you, your machine, or any d
 1 x MGN9H 350mm linear rail (preferably with z1 preset loading (common))
 - an MGN12 rail will NOT work due to the carriage width (27mm)
 
-2 x [MGN9 linear rail spacer blocks - left](https://github.com/dhoard/Ender-3-V3-SE/blob/main/x-axis-linear-rail/Ender 3 V3 SE MGN9 linear rail spacer block - left.3mf)
+2 x [MGN9 linear rail spacer blocks - left](https://github.com/dhoard/Ender-3-V3-SE/blob/main/x-axis-linear-rail/Ender%203%20V3%20SE%20MGN9%20linear%20rail%20spacer%20block%20-%20left.3mf)
 - 50% cubic infill, .3mm layer height, 4 walls
 
-5 x [MGN9 linear rail spacer blocks - center](https://github.com/dhoard/Ender-3-V3-SE/blob/main/x-axis-linear-rail/Ender 3 V3 SE MGN9 linear rail spacer block - center.3mf)
+5 x [MGN9 linear rail spacer blocks - center](https://github.com/dhoard/Ender-3-V3-SE/blob/main/x-axis-linear-rail/Ender%203%20V3%20SE%20MGN9%20linear%20rail%20spacer%20block%20-%20center.3mf)
 - 50% cubic infill, .3mm layer height, 4 walls
 
-1 x [MGN9 linear rail spacer blocks - right](https://github.com/dhoard/Ender-3-V3-SE/blob/main/x-axis-linear-rail/Ender 3 V3 SE MGN9 linear rail spacer block - right.3mf)
+1 x [MGN9 linear rail spacer blocks - right](https://github.com/dhoard/Ender-3-V3-SE/blob/main/x-axis-linear-rail/Ender%203%20V3%20SE%20MGN9%20linear%20rail%20spacer%20block%20-%20right.3mf)
 - 50% cubic infill, .3mm layer height, 4 walls
 
-1 x [MGN9H gantry mount](https://github.com/dhoard/Ender-3-V3-SE/blob/main/x-axis-linear-rail/Ender 3 V3 SE MGN9 gantry mount.3mf)
+1 x [MGN9H gantry mount](https://github.com/dhoard/Ender-3-V3-SE/blob/main/x-axis-linear-rail/Ender%203%20V3%20SE%20MGN9%20gantry%20mount.3mf)
  - 50% cubic infill, .3mm layer height, 4 walls 
 
 12 x  M3-0.5 x 16mm button head screws
