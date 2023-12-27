@@ -42,7 +42,7 @@ Install and use at your own risk. Not responible for you, your machine, or any d
 --  The linear rail should be offset to the right so that carriage can go completely to the x-axis belt adjuster
 11. Attach the tool head to the gantry mount
 12. Attach the x-axis belt
-13. Attach the carriage mount to the MGN9H carriage
+13. Attach the gantry mount to the MGN9H carriage
 14. Assemble the printer tool head
 15. Tighten the x-axis belt
 16. Attach the printer tool head cable
