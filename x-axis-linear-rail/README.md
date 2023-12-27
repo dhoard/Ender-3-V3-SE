@@ -38,9 +38,9 @@ Install and use at your own risk. Not responible for you, your machine, or any d
 6. Remove the printer tool head x-axis gantry plate
 7. Disassembly the tool head
 8. Remove the v-wheels, spacers, and bolts
-9. Attach the MGN9 linear rail to the x-axis extrusion with the spacer blocks between the rail and extrusion.
+9. Attach the MGN9 linear rail to the x-axis extrusion with the spacer blocks between the rail and extrusion. The goal it place spacers in ever other hole, starting with the left most spacer... but your rail holes/spacing may be different
 --  The linear rail should be offset to the right so that carriage can go completely to the x-axis belt adjuster
-11. Attach the x-axis carriage mount to the tool head
+11. Attach the tool head to the gantry mount
 12. Attach the x-axis belt
 13. Attach the carriage mount to the MGN9H carriage
 14. Assemble the printer tool head
