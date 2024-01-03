@@ -31,7 +31,7 @@ A soldering iron or heat set insert tool is required
 1. Unplug the printer
 2. Remove the build surface
 3. Remove the build plate
-4.
+4. Use a heat set insert tool or soldering iron to set an M4 nut into the Bed Leveling Knob
 5. Insert the M4 x 35mm screw into the 3 Point Carriage Adapter (Top) part
  - The fit is snug on purpose to help hold the screw
  - You may need to heat set the screw head into the part
