@@ -1,4 +1,4 @@
-## 3 Point Carriage Adapter
+## 3 Point Carriage Conversion 
 
 ## Disclaimer
 
