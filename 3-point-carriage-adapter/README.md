@@ -2,7 +2,7 @@
 
 ## Disclaimer
 
-Install and use at your own risk. Not responible for you, your machine, or any damages.
+Install and use at your own risk. Not responsible for you, your machine, or any damages.
 
 ### Parts list:
 
