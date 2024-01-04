@@ -11,10 +11,11 @@ A soldering iron or heat set insert tool is required
 ### Parts list:
 
 1 x [3 Point Carriage Adapter (Top)](3%20Point%20Carriage%20Adapter%20%28Top%29.stl)
-- 50% tri-hexagon infill, .3mm layer height, 8 walls
+- PETG or ABS, 50% tri-hexagon infill, .3mm layer height, 8 walls
 
 1 x [3 Point Carriage Adapter (Bottom)](3%20Point%20Carriage%20Adapter%20%28Bottom%29.stl)
 - 50% tri-hexagon infill, .3mm layer height, 8 walls
+- PETG or ABS
 
 1 x [Bed Leveling Knob](Bed%20Leveling%20Knob.stl)
 
